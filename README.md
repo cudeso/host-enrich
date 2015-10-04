@@ -27,4 +27,4 @@ host_enricher.py 8.8.8.8
 
 # Sample output
 
-See for an example of the output in the file '''sample_output.txt'''
+See for an example of the output in the file *sample_output.txt*
