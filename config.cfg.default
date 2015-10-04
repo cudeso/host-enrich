@@ -1,0 +1,16 @@
+[API]
+SHODAN_API_KEY=
+VIRUSTOTAL_API=
+CYMON_API=
+
+[URL]
+XFORCE_URL = https://xforce-api.mybluemix.net:443
+SANS_URL = https://isc.sans.edu/api/ip
+VT_URL = https://www.virustotal.com/vtapi/v2/ip-address/report
+CYMON_URL = https://cymon.io/api/nexus/v1/ip
+
+[Use]
+PRINT_API_URL=True
+SAVE_OUTPUT=True
+SAVE_OUTPUT_PATH=api_output
+CLEAR_OUTPUT_PATH=True
