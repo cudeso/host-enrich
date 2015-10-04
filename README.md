@@ -24,3 +24,7 @@ Call the script from the commandline and give the host info as the argument.
 ```
 host_enricher.py 8.8.8.8
 ```
+
+# Sample output
+
+See for an example of the output in the file '''sample_output.txt'''
